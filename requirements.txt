@@ -1,0 +1,5 @@
+textstat
+streamlit
+textstat
+pandas
+numpy
